@@ -1,0 +1,13 @@
+{
+  "name": "noviy-mir-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Стильный минималистичный сайт-визитка ООО «Новый Мир» — торговля IT-оборудованием и системами охлаждения.",
+  "scripts": {
+    "start": "npx live-server --port=4173 --open=./index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
+
